@@ -9,7 +9,7 @@ I specialize in Fullstack Web Development as well as Networking, and I'm always 
 
 - My Website: https://whowlett13.github.io/Wyatt-Howlett-Portfolio.github.io/
 
-- My LinkedIn: https://www.linkedin.com/in/wyatt-howlett
+- My LinkedIn: https://www.linkedin.com/in/wyatt-howlett 
 
 - 📫 How to reach me: By Email wyatthowlett@yahoo.com
 
