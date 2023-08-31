@@ -7,11 +7,10 @@ I specialize in Fullstack Web Development as well as Networking, and I'm always 
 
 - 🔭 I’m currently Looking For Work: As a Full Stack Web Developer
 
-https://img.shields.io/badge/elastic%20cloud-005571?style=for-the-badge&logo=elasticcloud&logoColor=white
-- 👯 I’m looking to collaborate on ...
+- My Website: https://whowlett13.github.io/Wyatt-Howlett-Portfolio.github.io/
 
-- 💬 Ask me about ...
-- 
-- 📫 How to reach me: By email wyatthowlett@yahoo.com
+- My LinkedIn: https://www.linkedin.com/in/wyatt-howlett
+
+- 📫 How to reach me: By Email wyatthowlett@yahoo.com
 
 
