@@ -7,7 +7,9 @@ I specialize in Fullstack Web Development as well as Networking, and I'm always 
 
 - 🔭 I’m currently Looking For Work: As a Full Stack Web Developer
 
-- My Website: https://wyatthowlett.ca
+- My Website: https://www.wyatthowlett.ca
+  
+- My Company Website: https://www.howltechsolutions.com
 
 - My LinkedIn: https://www.linkedin.com/in/wyatt-howlett 
 
