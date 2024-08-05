@@ -11,6 +11,6 @@ I specialize in Fullstack Web Development as well as Networking, and I'm always 
 
 - My LinkedIn: https://www.linkedin.com/in/wyatt-howlett 
 
-- 📫 How to reach me: By Email wyatthowlett@yahoo.com
+- 📫 How to reach me: By Email howltechsolutions@gmail.com
 
 
