@@ -10,9 +10,9 @@ When I’m not coding, you’ll find me exploring new technologies, contributing
 
 - 🔭 I’m currently Looking For Work: As a Full Stack Web Developer
 
-- [My Website:](https://www.wyatthowlett.ca)
+- [My Website🌐](https://www.wyatthowlett.ca)
   
-- [My Company Website:](https://www.howltechsolutions.com)
+- [My Company Website🌐](https://www.howltechsolutions.com)
 
 - [My LinkedIn](https://www.linkedin.com/in/wyatt-howlett) 
 
