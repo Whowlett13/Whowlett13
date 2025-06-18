@@ -1,12 +1,14 @@
 # Hi there 👋
 
-I’m **Wyatt Howlett**, a Full-Stack Web Developer based in Montreal with a passion for building elegant, efficient, and user-friendly websites and applications.
+My name is Wyatt Howlett, and I'm a Full-Stack Web Developer based in Montreal with a passion for creating elegant, efficient, and user-friendly websites and applications.
+I've been working as a With over five years of experience in the industry, I’ve worked on a wide range of projects for clients—from innovative startups to established corporations
 
-Over the past **five years**, I’ve had the opportunity to work with a wide range of clients—from early-stage startups to large corporations—delivering solutions that are not only technically sound but also thoughtfully designed. My work blends front-end finesse with back-end strength, supported by a solid foundation in networking and systems architecture.
+In 2022, I founded my own business, Howltech Solutions, which has allowed me to take on more diverse and challenging work while collaborating directly with clients to bring their ideas to life.
 
-What drives me is the constant challenge to learn, grow, and create better experiences—both for users and the teams I collaborate with. I believe that great code is only part of the equation; great communication, empathy, and curiosity are just as essential.
+I specialize in Full-Stack Web Development, and I’m always looking for new opportunities that push me to grow, learn, and refine my craft.
+Whether I’m building scalable backend systems, designing intuitive user interfaces, or diving into new tech stacks, I’m driven by a love for problem-solving and continuous improvement.
 
-When I’m not coding, you’ll find me exploring new technologies, contributing to open-source projects, or simply staying engaged with the world around me.
+Beyond technical skills, I believe being a great developer also means being thoughtful, communicative, and engaged—not just with the code, but with the people and world around me.
 
 - 🔭 I’m currently Looking For Work: As a Full Stack Web Developer
 
